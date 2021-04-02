@@ -1,6 +1,16 @@
 <template>
   <div id="app">
       <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
+      <p>java0923 hello word</p>
       <p>java0923 hello world</p>
       <p>祝 java0923 hello world</p>
       <p>祝 java0923 全体同学 拿到自己心仪的offer</p>
