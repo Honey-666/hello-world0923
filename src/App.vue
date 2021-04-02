@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <p>java0923 全体同学 行走的offer收割机</p>
+      <p>java0923 hello word</p>
       <p>java0923 全体同学 争取第一周入职 第二周转正,第三周升为组长,第四周董事会</p>
       <p>祝 java0923 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0923 全体同学 拿到自己心仪的offer</p>
